@@ -28,7 +28,7 @@ class Solution
   }
 };
 int main(){
-  string str="[()]";
+  string str="[()";
   Solution ob;
   if(ob.isValid(str))
   {
